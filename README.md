@@ -91,9 +91,3 @@ A: I'm using a heavily modified custom Japanese version of the engine. it has cr
 Q: Why is this posted as a iso and not a zip?
 A: because zip files have a tendency to CRC error over time wheres a iso is less likely to as its considered a CD ROM in digital form. zips that are put inside these are also less likely to as well but i use iso as a archival format because its easier to send the file to pc to pc without the need for tedious extraction/compression or passwords let alone CRC problems as ISO don't right a CRC for the files as the pc sees it as a Data DISK not a data archive.
 i will never use a zip archive for my files so please stop asking for zip archives because i don't like how theirs crc embedded into those and those error over time. the iso is robust and is easy to open and take files out of if you need them
-
-if you like my work concider supporting me by giving a small donation. running servers and game devlopment isnt cheap. any ammount nomatter how small will be apreacateated. minimum $5 USD
-
-<a href="paypal.me/IJNAyanami" target="_blank">
-  <img src="https://mannaonmain.org/wp-content/uploads/Paypal-Donate-Button-Image.png" alt="Donate with PayPal">
-</a>
